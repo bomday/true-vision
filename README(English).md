@@ -1,4 +1,4 @@
-# Statistical-Analysis-VRAM-Usage
+# Statistical_Analysis-VRAM_Usage
 
 Project for the Statistics and Probability course in the undergraduate program [Information Systems (IS)](https://portal.cin.ufpe.br/graduacao/sistemas-de-informacao/) at [Center for Informatics (CIN)](https://portal.cin.ufpe.br/) of [Federal University of Pernambuco (UFPE)](https://www.ufpe.br/), a course taken by me in 2023.
 
