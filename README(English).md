@@ -2,7 +2,7 @@
 
 Project for the Statistics and Probability course in the undergraduate program [Information Systems (IS)](https://portal.cin.ufpe.br/graduacao/sistemas-de-informacao/) at [Center for Informatics (CIN)](https://portal.cin.ufpe.br/) of [Federal University of Pernambuco (UFPE)](https://www.ufpe.br/), a course taken by me in 2023.
 
-In this repository, the [Python](https://www.python.org) language was used to perform T student tests, using the [SciPy](https://scipy.org) library.
+In this repository, the [Python](https://www.python.org) language was used to perform T-student tests, using the [SciPy](https://scipy.org) library.
 
 ## Course Syllabus
 
