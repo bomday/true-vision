@@ -10,13 +10,21 @@ Estatística Descritiva; Probabilidade; Estatística Inferencial. Eventos. Exper
 
 ## Organização dos Arquivos
 
+O arquivo `projeto.py` é o código do projeto.
 
+O arquivo `TRUE VISION - GRUPO 6.pdf` são os slides que foram usados na apresentação.
+
+O arquivo `MEMORY.txt` é onde está o conjunto de dados utilizados no projeto.
+
+O arquivo `Relatório_Projeto_IF971_2023_1__Grupo_6_.pdf` é o relatório do projeto.
+
+O arquivo `Especificação_projeto_2023.1.pdf` é onde estão as informações, especificações e regras para realizar o projeto.
 
 ## Proposta do projeto
 
 O objetivo do projeto foi avaliar a equipe em uma análise dos dados oferecidos pelo professor, a equipe realizou uma análise descritivas dos dados e hipóteses estatísticas. O contexto dos dados não é real e foi inventado pelo professor e pela equipe.
 
-As tarefas foram: Realizar o projeto, criar um relatório do projeto, apresentar o projeto para o professor.
+As tarefas foram: Realizar o projeto, criar um relatório do projeto, apresentar o projeto para a turma e o professor.
 
 Resumo do relatório:
 
