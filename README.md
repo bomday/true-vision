@@ -31,3 +31,5 @@ Site do CIN: https://portal.cin.ufpe.br/
 Site da graduação em Sistemas de Informação (SI): https://portal.cin.ufpe.br/graduacao/sistemas-de-informacao/
 
 Site da UFPE: https://www.ufpe.br/
+
+Site da biblioteca SciPy: https://scipy.org
