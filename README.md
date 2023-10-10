@@ -2,7 +2,7 @@
 
 Projeto da cadeira de Estatística e Probabilidade para Computação, da graduação em [Sistemas de Informação (SI)](https://portal.cin.ufpe.br/graduacao/sistemas-de-informacao/) do [Centro de Informática (CIN)](https://portal.cin.ufpe.br/) da [Universidade Federal de Pernambuco (UFPE)](https://www.ufpe.br/), cadeira cursada por mim em 2023.
 
-Neste repositório, foi usado a linguagem [Python](https://www.python.org) para realizar testes de T student, utilizando a biblioteca [SciPy](https://scipy.org). 
+Neste repositório, foi usado a linguagem [Python](https://www.python.org) para realizar testes de T-student, utilizando a biblioteca [SciPy](https://scipy.org). 
 
 ## Ementa da Cadeira
 
