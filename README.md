@@ -1,4 +1,4 @@
-# Analise_Estatistica-Uso_de_VRAM
+# True Vision
 
 Projeto da cadeira de Estatística e Probabilidade para Computação, da graduação em [Sistemas de Informação (SI)](https://portal.cin.ufpe.br/graduacao/sistemas-de-informacao/) do [Centro de Informática (CIN)](https://portal.cin.ufpe.br/) da [Universidade Federal de Pernambuco (UFPE)](https://www.ufpe.br/), cadeira cursada pela equipe em 2023.
 
