@@ -36,7 +36,7 @@ Python official website: https://www.python.org
 
 CIN website: https://portal.cin.ufpe.br/
 
-Information Systems (SI) undergraduate program website: https://portal.cin.ufpe.br/graduacao/sistemas-de-informacao/
+Information Systems (IS) undergraduate program website: https://portal.cin.ufpe.br/graduacao/sistemas-de-informacao/
 
 UFPE website: https://www.ufpe.br/
 
