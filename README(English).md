@@ -1,6 +1,6 @@
 # True Vision
 
-Project for the Statistics and Probability course in the undergraduate program [Information Systems (IS)](https://portal.cin.ufpe.br/graduacao/sistemas-de-informacao/) at [Center for Informatics (CIN)](https://portal.cin.ufpe.br/) of [Federal University of Pernambuco (UFPE)](https://www.ufpe.br/), a course taken by group in 2023.
+Project for the Statistics and Probability course in the undergraduate program [Information Systems (IS)](https://portal.cin.ufpe.br/graduacao/sistemas-de-informacao/) at [Center for Informatics (CIn)](https://portal.cin.ufpe.br/) of [Federal University of Pernambuco (UFPE)](https://www.ufpe.br/), a course taken by group in 2023.
 
 In this repository, the [Python](https://www.python.org) language was used to perform T-student tests, using the [SciPy](https://scipy.org) library.
 
@@ -34,7 +34,7 @@ This report addresses the growing relevance of augmented reality in the global s
 
 Python official website: https://www.python.org
 
-CIN website: https://portal.cin.ufpe.br/
+CIn website: https://portal.cin.ufpe.br/
 
 Information Systems (IS) undergraduate program website: https://portal.cin.ufpe.br/graduacao/sistemas-de-informacao/
 
