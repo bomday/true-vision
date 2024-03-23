@@ -1,6 +1,6 @@
 # True Vision
 
-Projeto da cadeira de Estatística e Probabilidade para Computação, da graduação em [Sistemas de Informação (SI)](https://portal.cin.ufpe.br/graduacao/sistemas-de-informacao/) do [Centro de Informática (CIN)](https://portal.cin.ufpe.br/) da [Universidade Federal de Pernambuco (UFPE)](https://www.ufpe.br/), cadeira cursada pela equipe em 2023.
+Projeto da cadeira de Estatística e Probabilidade para Computação, da graduação em [Sistemas de Informação (SI)](https://portal.cin.ufpe.br/graduacao/sistemas-de-informacao/) do [Centro de Informática (CIn)](https://portal.cin.ufpe.br/) da [Universidade Federal de Pernambuco (UFPE)](https://www.ufpe.br/), cadeira cursada pela equipe em 2023.
 
 Neste repositório, foi usado a linguagem [Python](https://www.python.org) para realizar testes de T-student, utilizando a biblioteca [SciPy](https://scipy.org). 
 
@@ -35,7 +35,7 @@ usuários explorar locais turísticos virtualmente em tempo real, fomentando a c
 
 Python site oficial: https://www.python.org
 
-Site do CIN: https://portal.cin.ufpe.br/
+Site do CIn: https://portal.cin.ufpe.br/
 
 Site da graduação em Sistemas de Informação (SI): https://portal.cin.ufpe.br/graduacao/sistemas-de-informacao/
 
