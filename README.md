@@ -73,7 +73,7 @@ As tarefas foram: Realizar o projeto, criar um relatório do projeto, apresentar
 
 Resumo do relatório:
 
-Este relatório aborda a crescente relevância da realidade aumentada no cenário global, focando na análise do uso de VRAM (Video Random Acess Memory) durante a renderização de imagens em um projeto de turismo chamado "True Vision". Tal projeto visa permitir aos
+Este relatório aborda a crescente relevância da realidade aumentada no cenário global, focando na análise do uso de VRAM (Video Random Access Memory) durante a renderização de imagens em um projeto de turismo chamado "True Vision". Tal projeto visa permitir aos
 usuários explorar locais turísticos virtualmente em tempo real, fomentando a cultura e história de cada local. Assim, a pesquisa realizada neste estudo tem como objetivo propor o plano de memória por servidor que melhor atende a prestação de serviços da empresa. O processo de pesquisa foi dividido em três fases: coleta de dados, análise dos dados e formulação de hipóteses. A coleta de dados envolveu o monitoramento contínuo da utilização de VRAM em um servidor. A análise dos dados foi realizada manualmente e com o auxílio de ferramentas estatísticas. Três hipóteses foram formuladas, incluindo a verificação da normalidade dos dados, a estimativa da média de uso de VRAM em 500 MB e a análise para garantir que o servidor opere abaixo da zona de sobrecarga (80% da capacidade máxima de VRAM). Portanto, o estudo visa fornecer informações fundamentais para a escolha adequada do plano de VRAM por servidor, a fim de garantir melhores detalhes para planos financeiros da startup e o funcionamento eficiente da aplicação.
 
 ## Links:
